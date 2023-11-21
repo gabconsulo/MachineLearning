@@ -14,7 +14,7 @@ numEpocas = 1000
 q = len(y)
 
 #parametros
-eta = 0.07
+eta = 0.05
 m = 8
 N = 16
 L = 1
